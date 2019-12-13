@@ -1,0 +1,9 @@
+---
+layout: people
+github_username: sah2134
+last_name: Husain
+first_name: Syed
+permalink: /people/sah2134/
+---
+
+I am a transplant nephrologist. I am interested in using large data to study rare events in kidney transplantation.
